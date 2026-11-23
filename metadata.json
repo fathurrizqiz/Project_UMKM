@@ -1,0 +1,6 @@
+{
+  "name": "VAMPIRE STAND — Dimsum & Kripik Pisang Coklat",
+  "description": "Pemesanan online Dimsum kukus segar dan Kripik Pisang Coklat lumer via WhatsApp, lengkap dengan manajemen stok dan pesanan admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
