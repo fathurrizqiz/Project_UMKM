@@ -30,7 +30,7 @@ import type {
 } from './src/types/store';
 
 const PORT = Number(process.env.PORT) || 3000;
-const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin44225566';
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD || 'admin1234';
 const adminSessions = new Set<string>();
 
 function requireAdminAuth(
